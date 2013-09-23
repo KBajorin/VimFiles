@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/Users/kbajorin/work/allegory/.vagrant/machines/db/virtualbox'
 let g:netrw_dirhist_2='/Users/kbajorin/node/views'
+let g:netrw_dirhist_3='/Users/kbajorin/.vim/bundle/autoload/csapprox'
