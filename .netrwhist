@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/kbajorin/projects/rentage'
-let g:netrw_dirhist_2='/Users/kbajorin/projects/rentage/app'
-let g:netrw_dirhist_3='/Users/kbajorin/node'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/kbajorin/work/allegory/config/provisioning'
+let g:netrw_dirhist_2='/Users/kbajorin/work/allegory/config'
+let g:netrw_dirhist_3='/Users/kbajorin/work/allegory/config/capistrano'
+let g:netrw_dirhist_4='/Users/kbajorin/webgl/webgl-lessons/lesson00'
+let g:netrw_dirhist_5='/Users/kbajorin/Portfolio/assets/css'
