@@ -19,3 +19,6 @@
 [submodule "bundle/vimC"]
 	path = bundle/vimC
 	url = https://github.com/vim-scripts/c.vim.git
+[submodule "bundle/eclim"]
+	path = bundle/eclim
+	url = git@github.com:ervandew/eclim.git
